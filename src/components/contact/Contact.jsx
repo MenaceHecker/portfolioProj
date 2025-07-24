@@ -30,7 +30,7 @@ export const Contact = () => {
           <MdOutlineMail className='contact__option-icon'/>
           <h4>Email</h4>
           <h5>tm93754@uga.edu</h5>
-          <a href="mailto:tm93754@uga.edu" target="_blank">Send an email</a>
+          <a href="mailto:mtushar2508@gmail.com" target="_blank">Send an email</a>
         </article>
         <article className="contact__option">
           <AiOutlineInstagram className='contact__option-icon'/>
